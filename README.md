@@ -1,8 +1,7 @@
 # DL_assignment2
 
 **Libraries:**
-
-     * Required liabaries torch, DataLoader, transforms and optim are imported.
+* Required liabaries torch, DataLoader, transforms and optim are imported.
 
 **Dataset Preparation:**
 
