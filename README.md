@@ -9,7 +9,7 @@
 
 **GPU Integration:**
 
-*To accelerate model training, I leveraged GPU parallelism using the torch.device function. This enabled the model to execute computations in parallel.
+* To accelerate model training, I leveraged GPU parallelism using the torch.device function. This enabled the model to execute computations in parallel.
 
 **Data Preprocessing:**
 
