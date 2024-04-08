@@ -2,17 +2,15 @@
 
 **Libraries:**
 
-      Required liabaries torch, DataLoader, transforms and optim are imported.
+     -> Required liabaries torch, DataLoader, transforms and optim are imported.
 
 **Dataset Preparation:**
 
-        I loaded the iNaturalist dataset, comprising both training and testing data. To evaluate the model's performance and prevent overfitting, I partitioned the 
-        training data into an 80% training set and a 20% validation set. This partition allowed me to monitor whether the model was learning patterns or simply 
-        memorizing images.
+      -> I loaded the iNaturalist dataset, comprising both training and testing data. To evaluate the model's performance and prevent overfitting, I partitioned             the training data into an 80% training set and a 20% validation set. This partition allowed me to monitor whether the model was learning patterns or                   simply memorizing images.
 
 **GPU Integration:**
 
-        To accelerate model training, I leveraged GPU parallelism using the torch.device function. This enabled the model to execute computations in parallel.
+      -> To accelerate model training, I leveraged GPU parallelism using the torch.device function. This enabled the model to execute computations in parallel.
 
 **Data Preprocessing:**
 
