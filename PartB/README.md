@@ -14,4 +14,4 @@
        
 **Model Evaluation:**
 
-     *Following the fine-tuning process, the model's performance on the validation set. Key metrics such as accuracy and loss were closely monitored the model's ability to effectively learn meaningful patterns from the dataset. By examining both accuracy and loss metrics, whether the model successfully generalized its learning or exhibited signs of overfitting by merely memorizing the training data. This comprehensive evaluation process ensured the reliability and effectiveness of the fine-tuned ResNet50 model for the classification task on the iNaturalist dataset.
+     * Following the fine-tuning process, the model's performance on the validation set. Key metrics such as accuracy and loss were closely monitored the model's ability to effectively learn meaningful patterns from the dataset. By examining both accuracy and loss metrics, whether the model successfully generalized its learning or exhibited signs of overfitting by merely memorizing the training data. This comprehensive evaluation process ensured the reliability and effectiveness of the fine-tuned ResNet50 model for the classification task on the iNaturalist dataset.
